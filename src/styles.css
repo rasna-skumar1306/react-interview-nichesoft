@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.parent {
+  display: flex;
+}
+
+.welcome {
+  text-align: center;
+}
+
+.counter {
+  margin: 1rem auto;
+  height: 25vh;
+  width: 25%;
+  padding: 1rem;
+  background-color: #eeeeee;
+}
+
+.inc-btn,
+.res-btn {
+  background-color: black;
+  color: white;
+  border: none;
+  margin: 0.3rem;
+}
+
+.buttons {
+  display: grid;
+}
